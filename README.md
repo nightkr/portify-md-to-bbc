@@ -8,7 +8,7 @@ A custom renderer for Misika that allows you to convert from Markdown to BBCode.
 
 ## Usage
 
-    from <this-file> import BBCodeRenderer()
+    from <this-file> import BBCodeRenderer
     from misika import Markdown
 
     renderer = BBCodeRenderer()
