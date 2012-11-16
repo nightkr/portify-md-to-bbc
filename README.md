@@ -1,15 +1,15 @@
 # Markdown to Bulletin Board Code
 
-A custom renderer for Misika that allows you to convert from Markdown to BBCode.
+A custom renderer for Misaka that allows you to convert from Markdown to BBCode.
 
 ## Requirements
 
-* Misika.
+* Misaka.
 
 ## Usage
 
     from <this-file> import BBCodeRenderer
-    from misika import Markdown
+    from misaka import Markdown
 
     renderer = BBCodeRenderer()
     markdown = Markdown(renderer)
